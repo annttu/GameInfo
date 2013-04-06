@@ -1,0 +1,6 @@
+[database]
+server = localhost
+username = username
+password = password
+database = openttd
+port = 5432
